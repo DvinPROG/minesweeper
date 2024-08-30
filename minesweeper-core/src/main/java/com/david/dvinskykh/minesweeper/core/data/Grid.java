@@ -15,7 +15,6 @@ public class Grid {
     private final GameSettings settings;
     private final int totalMines;
     private int openedCells;
-    private int openedMines;
 
     public Grid(CellType[][] initialGrid, GameSettings settings) {
         this.settings = settings;
