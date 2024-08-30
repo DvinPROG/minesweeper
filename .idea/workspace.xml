@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6b4cf9f6-6de8-421f-9cf9-75da02052382" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/minesweeper-javafx">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="AnnotationType" />
+        <option value="JUnit5 Test Class" />
+        <option value="module-info" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2lIiQnVEBDCbOY7luS30bMQwOI0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build minesweeper-javafx.executor": "Run",
+    "Gradle.Build minesweeper.executor": "Run",
+    "Gradle.CellRelationshipTest.executor": "Coverage",
+    "Gradle.CoordinateTest.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "Gradle.GameEngineCommandTest.executor": "Run",
+    "Gradle.GameEngineTest.executor": "Run",
+    "Gradle.GameEngineTest.testStart.executor": "Run",
+    "Gradle.GameEngineTest.testStartPlayerRunNewGame.executor": "Run",
+    "Gradle.GameEngineTest.testStartPlayerRunNewGameAfterLoose.executor": "Run",
+    "Gradle.GridGeneratorTest.executor": "Coverage",
+    "Gradle.GridGeneratorTest.testGenerateGrid.executor": "Run",
+    "Gradle.GridTest.executor": "Run",
+    "Gradle.GridTest.testFlagOpenedCell.executor": "Coverage",
+    "Gradle.GridTest.testIsAllCellsOpened.executor": "Run",
+    "Gradle.GridTest.testMineCount.executor": "Run",
+    "Gradle.GridTest.testOpenEmptyCellWithZeroMineAroundCount.executor": "Coverage",
+    "Gradle.GridTest.testOpenMineCell.executor": "Run",
+    "Gradle.OpenCellEngineCommandTest.executor": "Run",
+    "Gradle.Tests in 'com.david.dvinskykh.minesweeper.core'.executor": "Coverage",
+    "Gradle.Tests in 'com.david.dvinskykh.minesweeper.core.data'.executor": "Coverage",
+    "Gradle.Tests in 'minesweeper.minesweeper-core.test'.executor": "Run",
+    "Gradle.minesweeper-javafx [:HelloApplication.main()].executor": "Run",
+    "Gradle.minesweeper.executor": "Run",
+    "Gradle.minesweeper:minesweeper-console [:minesweeper-console:Main.main()].executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.DemoApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "jdk.selected.JAVA_MODULE": "openjdk-17",
+    "kotlin-language-version-configured": "true",
+    "last.edited.regexp": "2 2 LOW",
+    "last_opened_file_path": "C:/Users/david/projects/minesweeper/minesweeper-web",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.david.dvinskykh.minesweeper.core.generator" />
+      <recent name="com.david.dvinskykh.minesweeper.core.data" />
+      <recent name="com.david.dvinskykh.minesweeper.core.command" />
+      <recent name="com.david.dvinskykh.minesweeper.core.exception" />
+      <recent name="com.david.dvinskykh.minesweeper.core.ui" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\david\projects\minesweeper\minesweeper-web" />
+      <recent name="C:\Users\david\projects\minesweeper\minesweeper-web\src\main\java\com\david\dvinskykh\minesweeper\web" />
+      <recent name="C:\Users\david\projects\minesweeper\minesweeper-web\src\main" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.david.dvinskykh.minesweeper.core.engine.command" />
+      <recent name="com.david.dvinskykh.minesweeper.core.data" />
+      <recent name="com.david.dvinskykh.minesweeper.core.engine" />
+      <recent name="com.david.dvinskykh.minesweeper.core.generator" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.david.dvinskykh.minesweeper.core.command" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="coefficient" />
+      <command value="`" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.david.dvinskykh.console.Main" />
+      <module name="minesweeper.minesweeper-console.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.david.dvinskykh.console.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CoordinateTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":minesweeper-core:test" />
+            <option value="--tests" />
+            <option value="&quot;com.david.dvinskykh.minesweeper.core.data.CoordinateTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="GameEngineCommandTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":minesweeper-core:test" />
+            <option value="--tests" />
+            <option value="&quot;com.david.dvinskykh.minesweeper.core.engine.command.GameEngineCommandTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="GameEngineTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":minesweeper-core:test" />
+            <option value="--tests" />
+            <option value="&quot;com.david.dvinskykh.minesweeper.core.engine.GameEngineTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="Tests in 'minesweeper.minesweeper-core.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":minesweeper-core:test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <RunAsTest>true</RunAsTest>
+      <method v="2" />
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UpdateClassesAndResources" />
+      <module name="minesweeper.minesweeper-web.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.david.dvinskykh.minesweeper.web.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.GameEngineTest" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Gradle.GameEngineCommandTest" />
+        <item itemvalue="Gradle.Tests in 'minesweeper.minesweeper-core.test'" />
+        <item itemvalue="Gradle.CoordinateTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-39b83d9b5494-intellij.indexing.shared.core-IU-241.17890.1" />
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-IU-241.17890.1" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b4cf9f6-6de8-421f-9cf9-75da02052382" name="Changes" comment="" />
+      <created>1724873978667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1724873978667</updated>
+      <workItem from="1724873979795" duration="32845000" />
+      <workItem from="1724978578738" duration="36395000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/minesweeper-core/src/test/java/com/david/dvinskykh/minesweeper/core/engine/GameEngineTest.java</url>
+          <line>126</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/minesweeper-core/src/main/java/com/david/dvinskykh/minesweeper/core/engine/command/FlagCellEngineCommand.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/minesweeper-console/src/main/java/com/david/dvinskykh/console/PatternScanner.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/minesweeper-core/src/test/java/com/david/dvinskykh/minesweeper/core/data/GridTest.java</url>
+          <line>90</line>
+          <properties class="com.david.dvinskykh.minesweeper.core.data.GridTest" method="testFlagOpenedCell">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/minesweeper-core/src/test/java/com/david/dvinskykh/minesweeper/core/generator/GridGeneratorTest.java</url>
+          <line>53</line>
+          <properties class="com.david.dvinskykh.minesweeper.core.generator.GridGeneratorTest" method="testGenerateGrid">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/minesweeper$GridTest_testFlagOpenedCell.ic" NAME="GridTest.testFlagOpenedCell Coverage Results" MODIFIED="1725015852186" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/minesweeper$CellRelationshipTest.ic" NAME="CellRelationshipTest Coverage Results" MODIFIED="1725014004970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/minesweeper$GridTest.ic" NAME="GridTest Coverage Results" MODIFIED="1725015731947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/minesweeper$Tests_in__com_david_dvinskykh_minesweeper_core_data_.ic" NAME="Tests in 'com.david.dvinskykh.minesweeper.core.data' Coverage Results" MODIFIED="1725017785341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/minesweeper$GridGeneratorTest.ic" NAME="GridGeneratorTest Coverage Results" MODIFIED="1725022936863" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/minesweeper$Tests_in__com_david_dvinskykh_minesweeper_core_.ic" NAME="Tests in 'com.david.dvinskykh.minesweeper.core' Coverage Results" MODIFIED="1725028544286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/minesweeper$GridTest_testOpenEmptyCellWithZeroMineAroundCount.ic" NAME="GridTest.testOpenEmptyCellWithZeroMineAroundCount Coverage Results" MODIFIED="1725017261568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/minesweeper$Tests_in__minesweeper_minesweeper_core_test_.ic" NAME="Tests in 'minesweeper.minesweeper-core.test' Coverage Results" MODIFIED="1725034276069" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+    <SUITE FILE_PATH="coverage/minesweeper$GameEngineTest.ic" NAME="GameEngineTest Coverage Results" MODIFIED="1725026980938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true" />
+  </component>
+</project>

@@ -1,0 +1,3 @@
+rootProject.name = 'minesweeper'
+include 'minesweeper-core'
+include 'minesweeper-console'

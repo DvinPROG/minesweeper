@@ -1,0 +1,18 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.david.dvinskykh'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    implementation "org.projectlombok:lombok:$LOMBOK_VERSION"
+    annotationProcessor "org.projectlombok:lombok:$LOMBOK_VERSION"
+}
+
+test {
+    useJUnitPlatform()
+}
