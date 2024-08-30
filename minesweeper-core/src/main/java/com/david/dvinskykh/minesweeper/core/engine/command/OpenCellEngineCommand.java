@@ -6,6 +6,10 @@ import com.david.dvinskykh.minesweeper.core.engine.GameContext;
 import com.david.dvinskykh.minesweeper.core.engine.GameStatus;
 import com.david.dvinskykh.minesweeper.core.generator.GridGenerator;
 
+/**
+ * Command to open a cell
+ * @param coordinate of the cell
+ */
 public record OpenCellEngineCommand(Coordinate coordinate) implements EngineCommand {
 
     @Override
